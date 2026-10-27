@@ -1,0 +1,6 @@
+{
+  "name": "ding-plugins-001",
+  "description": "Shared Claude Code plugins for the ding team",
+  "owner": { "name": "ding" },
+  "plugins": []
+}
