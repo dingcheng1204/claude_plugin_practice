@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/claude_code_treasure_game/',
+    base: '/claude_plugin_practice/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
